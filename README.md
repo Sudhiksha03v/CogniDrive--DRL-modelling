@@ -1,0 +1,2 @@
+# CogniDrive 
+ Leverages cutting-edge Deep Reinforcement Learning (DRL) and Behavioral Cloning techniques to empower autonomous vehicles with advanced capabilities, enabling them to navigate complex, dynamic environments with unparalleled precision and adaptability. Enhances vehicle intelligence, allowing for safer, more efficient decision-making in real-time, while constantly improving performance.
